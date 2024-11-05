@@ -9,6 +9,7 @@ Code and Checkpoints
 
 
 - Reddit
+download at [Cloud](https://cloud.tsinghua.edu.cn/f/7184f58ad3b043df9073/?dl=1)
 
 ### post-level model
 please download the checkpoint at [Cloud](https://cloud.tsinghua.edu.cn/f/7622df3a4ab54db5a2b1/?dl=1)
